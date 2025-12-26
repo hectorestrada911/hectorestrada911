@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-## Hector Estrada
+## I'm Hector Estrada
 Software Engineer focused on building automation tools, backend systems, and AI-integrated products.
 
 I build real software end-to-end: backend services, data pipelines, internal tools, and user-facing web apps.
