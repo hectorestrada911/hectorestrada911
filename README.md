@@ -15,18 +15,14 @@ I build real software end-to-end: backend services, data pipelines, internal too
 **Velora AI**  
 Automation platform for email follow-ups, natural-language scheduling, and document parsing.  
 Tech: Next.js, Python, OpenAI, Google APIs  
-🔗 https://velorai.com  
+🔗 [https://velorai.com  ](https://velora-beta-one.vercel.app/auth)
 📂 https://github.com/hectorestrada911/velora
 
 **Aincorp**  
 Internal tools and dashboards for workflow automation and business operations.  
 Tech: React, Next.js, Django, PostgreSQL  
 📂 https://github.com/hectorestrada911/aincorp
-
-**BidMe**  
-Web application exploring marketplace-style bidding workflows.  
-Tech: TypeScript, React  
-📂 https://github.com/hectorestrada911/bidme
+🔗 https://growtech-rouge.vercel.app
 
 ### Tech Stack
 
