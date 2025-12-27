@@ -1,4 +1,4 @@
-## Hey!, I'm Hector Estrada
+## Hey! I'm Hector Estrada 👋
 **Software Engineer** building automation tools, backend systems, and AI-integrated products.
 
 I focus on shipping production-ready software that removes manual work, from data pipelines and internal tools to user-facing web applications.
