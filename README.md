@@ -22,7 +22,6 @@ I focus on shipping production-ready software that removes manual work, from dat
 |-------|------------|------|
 | **Velora AI** | Automation platform for email follow-ups, natural-language scheduling, and document parsing, designed to eliminate manual coordination work. | Next.js, Python, OpenAI, Google APIs |
 | **Aincorp** | Internal tools and dashboards for workflow automation and business operations, built to streamline internal processes and reporting. | React, Next.js, Django, PostgreSQL |
-| **BidMe** | Web application exploring marketplace-style bidding workflows and transaction logic. | TypeScript, React |
 
 **Project Links**
 - Velora AI → https://velorai.com  
