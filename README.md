@@ -3,7 +3,7 @@
 
 I focus on shipping production-ready software that removes manual work — from data pipelines and internal tools to user-facing web applications.
 
-🔗 **Portfolio:** https://velorai.com  
+🔗 **Project:** [https://velorai.com  ](https://velora-beta-one.vercel.app/auth)
 💼 **LinkedIn:** https://linkedin.com/in/hector-estrada-5b1351213  
 📄 **Resume:** https://github.com/hectorestrada911/resume  
 
