@@ -3,14 +3,14 @@
 
 I focus on shipping production-ready software that removes manual work, from data pipelines and internal tools to user-facing web applications.
 
-🔗 **Project:** [https://velorai.com  ](https://velora-beta-one.vercel.app/auth)
+🔗 **Project:** [https://velorai.com  ](https://velora-beta-one.vercel.app/auth) 
 💼 **LinkedIn:** https://linkedin.com/in/hector-estrada-5b1351213  
 📄 **Resume:** https://github.com/hectorestrada911/resume  
 
 ---
 
 ## 🚧 Current Focus
-- Building **Velora AI** — automation for reminders, scheduling, and document parsing  
+- Building **Velora AI**, automation for reminders, scheduling, and document parsing  
 - Developing full-stack internal tools at **Aincorp**  
 - Turning academic research data into scalable, production-ready pipelines  
 
