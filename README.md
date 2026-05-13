@@ -34,17 +34,16 @@ I’m a Computer Science student at San Diego State University focused on shippi
 - RAGE: [rage.events](https://rage.events)
 - Velora AI: [velora.co](https://velora-beta-one.vercel.app/auth)
 - Velora Repo: [github.com/hectorestrada911/velora](https://github.com/hectorestrada911/velora)
-- Aincorp Repo: [github.com/hectorestrada911/aincorp](https://github.com/hectorestrada911/aincorp)
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, Java, C++, SQL  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Django, API design, scheduled jobs  
-**Databases / Cloud:** MySQL, Supabase, Firestore, Firebase 
-**APIs / Tools:** OpenAI API, Grok API, Google APIs, Stripe, Resend, Git/GitHub, Vercel, Railway
+- Languages:** Python, TypeScript, JavaScript, Java, C++, SQL  
+- Frontend:** React, Next.js, Tailwind CSS  
+- Backend:** Node.js, Django, API design, scheduled jobs  
+- Databases / Cloud:** MySQL, Supabase, Firestore, Firebase 
+- APIs / Tools:** OpenAI API, Grok API, Google APIs, Stripe, Resend, Git/GitHub, Vercel, Railway
 ---
 
 ## Engineering Interests
