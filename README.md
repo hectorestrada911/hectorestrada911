@@ -1,4 +1,4 @@
-# Hey!, I'm Hector Estrada
+# Hey! I'm Hector Estrada 👋
 
 **Full-Stack Software Engineer** building production web apps with users, payments, AI integrations, and backend workflows.
 
