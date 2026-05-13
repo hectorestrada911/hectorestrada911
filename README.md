@@ -1,4 +1,4 @@
-# Hector Estrada
+# Hey!, I'm Hector Estrada
 
 **Full-Stack Software Engineer** building production web apps with users, payments, AI integrations, and backend workflows.
 
@@ -36,8 +36,7 @@ I’m a Computer Science student at San Diego State University focused on shippi
 - Velora Repo: [github.com/hectorestrada911/velora](https://github.com/hectorestrada911/velora)
 - Aincorp Repo: [github.com/hectorestrada911/aincorp](https://github.com/hectorestrada911/aincorp)
 - Aincorp Demo: [growtech-rouge.vercel.app](https://growtech-rouge.vercel.app)
-- BidMe Repo: [github.com/hectorestrada911/bidme](https://github.com/hectorestrada911/bidme)
-
+- 
 ---
 
 ## Tech Stack
@@ -45,9 +44,8 @@ I’m a Computer Science student at San Diego State University focused on shippi
 **Languages:** Python, TypeScript, JavaScript, Java, C++, SQL  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Django, API design, scheduled jobs  
-**Databases / Cloud:** PostgreSQL, MySQL, Supabase, Firestore, Firebase, Prisma ORM  
-**APIs / Tools:** OpenAI API, Grok API, Google APIs, Stripe, Resend, Git/GitHub, Vercel, Railway, Vercel Cron  
-
+**Databases / Cloud:** MySQL, Supabase, Firestore, Firebase 
+**APIs / Tools:** OpenAI API, Grok API, Google APIs, Stripe, Resend, Git/GitHub, Vercel, Railway
 ---
 
 ## Engineering Interests
