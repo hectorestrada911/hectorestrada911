@@ -35,8 +35,7 @@ I’m a Computer Science student at San Diego State University focused on shippi
 - Velora AI: [velora.co](https://velora-beta-one.vercel.app/auth)
 - Velora Repo: [github.com/hectorestrada911/velora](https://github.com/hectorestrada911/velora)
 - Aincorp Repo: [github.com/hectorestrada911/aincorp](https://github.com/hectorestrada911/aincorp)
-- Aincorp Demo: [growtech-rouge.vercel.app](https://growtech-rouge.vercel.app)
-- 
+
 ---
 
 ## Tech Stack
