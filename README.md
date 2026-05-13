@@ -1,81 +1,72 @@
-## Hey! I'm Hector Estrada 👋
-**Software Engineer** building automation tools, backend systems, and AI-integrated products.
+# Hector Estrada
 
-I focus on shipping production-ready software that removes manual work, from data pipelines and internal tools to user-facing web applications.
+**Full-Stack Software Engineer** building production web apps with users, payments, AI integrations, and backend workflows.
 
-🔗 **Project:** [https://velorai.com  ](https://velora-beta-one.vercel.app/auth) 
-💼 **LinkedIn:** https://linkedin.com/in/hector-estrada-5b1351213  
-📄 **Resume:** https://github.com/hectorestrada911/resume  
+I’m a Computer Science student at San Diego State University focused on shipping real software: ticketing platforms, AI productivity tools, workflow automation, and data systems.
 
----
-
-## 🚧 Current Focus
-- Building **Velora AI**, automation for reminders, scheduling, and document parsing  
-- Developing full-stack internal tools at **Aincorp**  
-- Turning academic research data into scalable, production-ready pipelines  
+- Portfolio / Live Product: [rage.events](https://rage.events)
+- LinkedIn: [linkedin.com/in/hector-estrada-5b1351213](https://linkedin.com/in/hector-estrada-5b1351213)
+- Resume: [github.com/hectorestrada911/resume](https://github.com/hectorestrada911/resume)
 
 ---
 
-## 📌 Featured Projects
+## Current Focus
+
+- Building **RAGE**, an end-to-end ticketing platform for student events with live Stripe checkout, QR-based check-in, and 20+ early user signups.
+- Building **Velora AI**, a full-stack AI productivity app for reminders, scheduling, document workflows, and Google Workspace integrations.
+- Improving my backend, systems, and software engineering fundamentals through production projects and CS coursework.
+
+---
+
+## Featured Projects
 
 | Project | Description | Tech |
-|-------|------------|------|
-| **Velora AI** | Automation platform for email follow-ups, natural-language scheduling, and document parsing, designed to eliminate manual coordination work. | Next.js, Python, OpenAI, Google APIs |
-| **Aincorp** | Internal tools and dashboards for workflow automation and business operations, built to streamline internal processes and reporting. | React, Next.js, Django, PostgreSQL |
-
-**Project Links**
-- Velora AI → https://velorai.com  
-- Velora Repo → https://github.com/hectorestrada911/velora  
-- Aincorp Repo → https://github.com/hectorestrada911/aincorp  
-- Aincorp Demo → https://growtech-rouge.vercel.app  
-- BidMe Repo → https://github.com/hectorestrada911/bidme  
+|---|---|---|
+| **RAGE** | End-to-end ticketing platform for student events. Hosts can create events, sell tickets, collect payments, and run QR-based door check-in. Currently live with 20+ early user signups. | Next.js, TypeScript, Supabase, Stripe, Resend, Vercel |
+| **Velora AI** | AI productivity app spanning chat, memory, reminders, document handling, and Google Workspace integrations. Built with split frontend/backend deployment across Vercel and Railway. | Next.js, TypeScript, Firebase, Firestore, OpenAI, Google APIs, Railway |
+| **Aincorp** | Small-business AI automation prototype with dashboards, chatbot workflows, and OpenAI/Grok API integrations for customer support and operations use cases. | Python, React, Next.js, Django, OpenAI API, Grok API |
+| **BIGG-U Research** | Research database prototype for converting complex scientific files into searchable, structured datasets. Built Python parsing scripts to extract protein IDs from FASTA/protein files and standardize outputs into CSV datasets. | Python, CSV pipelines, data parsing |
 
 ---
 
-## 🧰 Tech Stack
+## Project Links
 
-### Languages
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></td>
-</tr>
-</table>
-
-### Frameworks & Tools
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></td>
-</tr>
-</table>
+- RAGE: [rage.events](https://rage.events)
+- Velora AI: [velora.co](https://velora-beta-one.vercel.app/auth)
+- Velora Repo: [github.com/hectorestrada911/velora](https://github.com/hectorestrada911/velora)
+- Aincorp Repo: [github.com/hectorestrada911/aincorp](https://github.com/hectorestrada911/aincorp)
+- Aincorp Demo: [growtech-rouge.vercel.app](https://growtech-rouge.vercel.app)
+- BidMe Repo: [github.com/hectorestrada911/bidme](https://github.com/hectorestrada911/bidme)
 
 ---
 
-## 🧠 Engineering Interests
-- Backend and platform engineering  
-- Workflow automation and developer tools  
-- AI integration in **production systems** (not demos)  
-- Building software that scales operationally, not just technically  
+## Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, Java, C++, SQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Django, API design, scheduled jobs  
+**Databases / Cloud:** PostgreSQL, MySQL, Supabase, Firestore, Firebase, Prisma ORM  
+**APIs / Tools:** OpenAI API, Grok API, Google APIs, Stripe, Resend, Git/GitHub, Vercel, Railway, Vercel Cron  
 
 ---
 
-## 🎯 Current Goals (2025)
-- Secure a Software Engineering / AI internship  
-- Publish automation and analytics tools as open-source projects  
-- Deepen systems, backend, and cloud architecture expertise  
+## Engineering Interests
+
+- Full-stack product engineering
+- Backend systems and API integrations
+- Payments, authentication, and production workflows
+- AI automation that solves real operational problems
+- Data parsing, transformation, and structured storage
 
 ---
 
-> *Build systems that remove friction — not just features.*
+## Current Goals
+
+- Land a software engineering internship
+- Grow RAGE with real hosts, tickets sold, and QR check-ins
+- Improve CS fundamentals through data structures, algorithms, systems, and backend architecture
+- Build products that are useful enough for real people to use
+
+---
+
+> Build real systems. Ship them. Learn from users.
