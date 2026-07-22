@@ -6,7 +6,6 @@ I’m a Computer Science student at San Diego State University focused on shippi
 
 - Portfolio / Live Product: [rage.events](https://rage.events)
 - LinkedIn: [linkedin.com/in/hector-estrada-5b1351213](https://linkedin.com/in/hector-estrada-5b1351213)
-- Resume: [github.com/hectorestrada911/resume](https://github.com/hectorestrada911/resume)
 
 ---
 
